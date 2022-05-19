@@ -1,0 +1,7 @@
+__pycache__
+tests
+*.sqlite
+.report.json
+.replit
+poetry.lock
+pyproject.toml
